@@ -1,6 +1,6 @@
 # Scale FeatherWing
 
-**Main repository is on gitlab:
+**Main repository is on gitlab:**  
 https://gitlab.com/jousis/scale-featherwing
 
 

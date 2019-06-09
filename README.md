@@ -1,4 +1,9 @@
 # Scale FeatherWing
+
+**Main repository is on gitlab:  **
+https://gitlab.com/jousis/scale-featherwing
+
+
 ![Scale FeatherWing](Photos/feather.jpg)
 ![Scale FeatherWing](Photos/feather2.jpg)
 
